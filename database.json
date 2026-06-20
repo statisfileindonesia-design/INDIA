@@ -2,7 +2,7 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "INDIA",
-  "total": 4,
+  "total": 6,
   "data": [
     {
       "NAMAE": "eWBzfBFybHZ6FXh7ZXgZfXN8",
@@ -27,8 +27,20 @@
       "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBlIWDAwdBUNdSVduTwpqXxpbSV4=",
       "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfDAAWAQYdBWdnWXtrUUdqXxpbSV4=",
       "LINK": "AwEEAQUBCwUBAgUFBgg="
+    },
+    {
+      "NAMAE": "VkdRU15X",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfAAYWWA0dX1FDfUpdbWRqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfUlQWCFMdRXR/cHpQcgJqXxpbSV4=",
+      "LINK": "AwEEAQYKAAQGDQMBAwo="
+    },
+    {
+      "NAMAE": "QVxeU11c",
+      "COVER": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfBwgWDAYdWWNNAXxbcXpqXxpbSV4=",
+      "SINOPSIS": "WkFEREIDFhpbWFFTVEoLG1tYV1ZeQRdWXVgfV1MWDwIdcnxTa3NxDFVqXxpbSV4=",
+      "LINK": "AwEEAQkNCwQHAggHBgg="
     }
   ],
-  "lastSync": "2026-06-18T16:57:24.228Z",
+  "lastSync": "2026-06-20T19:55:03.927Z",
   "note": ""
 }
